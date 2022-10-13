@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LAB12</string>
+
+    <string name="textMensaje_topAppBar">Funcion no disponible, utilice el otro boton</string>
+    <string name="textContrasenia_loginFragment">Contraseña</string>
+    <string name="textBtn_iniciarSesion_loginFragment">iniciar sesión</string>
+    <string name="textCorreo_inputCorreo_loginFragment">Correo</string>
+    <string name="textToast">Correo o contraseña incorrectas</string>
+    <string name="textCorreo_fragment">per21298@uvg.edu.gt</string>
+    <string name="textContrasenia_fragment">per21298@uvg.edu.gt</string>
+    <string name="textToolbar_characterDetails">Character details</string>
+    <string name="textMenu_cerrarSesion">Cerrar sesión</string>
+    <string name="keyInicioSesion">email</string>
+    <string name="constant_iniciarSesion">per21298@uvg.edu.gt</string>
+    <string name="constant_noIniciarSesion">false</string>
+    <string name="text_mensaje_cerrarSesion">¿Está seguro que desea salir? Se perderán todos los datos.</string>
+    <string name="text_mensaje_saveNewData">Guardado con éxito.</string>
+    <string name="text_mensaje_noInternet">¡Sin internet!</string>
+    <string name="textPersonalName_loginLayout">Angel Figueroa</string>
+    <string name="credencialesAceptadas">per21298@uvg.edu.gt</string>
+    <string name="correoAceptado_loginFragment">per21298@uvg.edu.gt</string>
+    <string name="textBt_mantenerSesion_homeLayout">Mantener sesión abierta</string>
+    <string name="textBt_cerrarSesion_homeLayout">cerrar sesión</string>
+    <string name="textBt_default_homeLayout">default</string>
+    <string name="textBt_succes_homeLayout">succes</string>
+    <string name="textBt_failure_homeLayout">failure</string>
+    <string name="textBt_empty_homeLayout">empty</string>
+</resources>
